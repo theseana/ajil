@@ -1,0 +1,1 @@
+print("poulstar"*42)
