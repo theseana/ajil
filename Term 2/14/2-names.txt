@@ -1,0 +1,6 @@
+enter name: sina
+enter last_name: bakhshandeh
+
+.txt
+name: sina, last_name: bakhshandeh
+name: amir, last_name: asdasdasdasd

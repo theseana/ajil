@@ -1,0 +1,62 @@
+### Functions
+- print()
+- input()
+- int()
+- str()
+- float()
+- bool()
+- len()
+- range()
+
+### Data Type:
+- string
+    - str
+    - '', ""
+    - +
+    - for (iterate)
+    - len
+
+- integer
+    - int
+    - +
+    - *
+    - / 
+    - -
+
+    float
+        float
+        + * / -
+
+    boolean
+        bool (True, False)
+
+    list
+        list
+        []
+        len
+        index
+        for (iterate)
+
+Control:
+    if
+        :
+        condition
+        else
+        elif
+        indent
+
+    for loop
+        :
+        indet
+        iterate
+        string
+        list
+        range
+    
+    while loop
+        condition
+        :
+        indent
+Pakage:
+    turtle
+    random
