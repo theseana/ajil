@@ -1,38 +1,48 @@
 ### Functions
 - print()
 - input()
+  - اطلاعات بصورت رشته ذخیره میشه
+- type()
+  - نوع متغییر رو مشخص میکنه
 - int()
+  - یک عدد بصورت رشته میگیه و تبدیل میکنه به نوع اینتجر
 - str()
+   - یک عددصحیح یا عدد اعشاری دریافت میکند و تبدیل میکند به رشته
 - float()
+   - یک عدد بصورت اینتجر یا رشته را به عدد اعشاری تبدیل میکند
 - bool()
+   - فقط دو مقدار دارد
+   - True False
 - len()
+   - طول رشته یا طول لیست را نمایش میدهد
 - range()
 
 ### Data Type:
-- string
+1. string
     - str
+    - index
     - ' ', " "
     - for (iterate)
     - len
 
-- integer
+2. integer
     - int
 
-- float
+3. float
     - float
     - operators(-, +, *, /)
 
-- boolean
+4. boolean
     - bool (True, False)
 
-- list
+5. list
     - list
     - []
     - len
     - index
     - for (iterate)
 
-- dictionary
+6. dictionary
     - dict
     - {}
     - key: value
@@ -62,6 +72,6 @@
     - a
     - w
     - r
-- Pakage:
+- Library:
     - turtle
     - random
